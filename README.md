@@ -1,32 +1,81 @@
-### Hi there 👋, Hi, I am Ankit kumar
-#### I am an Artificial Intelligence Explorer
-![I am an Artificial Intelligence Explorer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="drawing" style="width:100%;ma"/>
+</p>
 
-As a dedicated  student of  Computer Science Engineering, I have strong understanding of machine learning, data science, and AI technologies. Throughout my academic journey, I have  deep knowledge of these domains, gaining hands-on experience through coursework, projects, and self-directed study.
+<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Manish Fenin.</h2>
 
-My passion for technology and innovation drives my ambition to pursue a career as a Machine Learning Engineer , Data Scientist or an AI Engineer. With a solid foundation in programming language such as Python,  as well as expertise in frameworks like TensorFlow, PyTorch, and scikit-learn, I am equipped to tackle complex challenges in the field. Moreover, I am proficient in data analysis, statistical modeling, and algorithm development, enabling me to derive meaningful insights from vast datasets and build robust machine learning models.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Curious and collaborative developer seeking internship
+- 🌱 &nbsp; Excited to work as a full-stack developer, learn diverse areas, and make a real impact.
+
+  <br/>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- Languages &nbsp;
+  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+  ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+  
+- Frameworks & Libraries &nbsp;
+  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+  ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+  ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
+  ![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=000000&logo=shadcn%2Fui&logoColor=FFFFFF&label=)
+  ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+  ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+  
+
+- databases & ORM &nbsp;
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+  ![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
+  ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
+  
+- Tools & Platforms &nbsp;
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+  ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=2F80ED&logo=VSCode&logoColor=FFFFFF&label=)
+  ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+  ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
+  
+<br/>
 
 
-As I transition from academics to the professional world, I am eager to leverage my expertise and contribute to innovative projects that harness the power of AI and data-driven solutions. I am committed to continuous growth and development, and I am excited about the opportunity to make a meaningful impact in the field of technology.
+<h3> 🧑‍💻 &nbsp;Top Languages</h3>
 
-Skills: Languages: Python | C | C++ |JavaScript |SQL| Html | CSS | NodeJs • DSA: Array | Stack | Queue | Graph | Trees | Searching | Sorting • ML/DL Algorithms: Regression | Classification| Niave Bayes | Random Forests | Clusetring |FNN |CNN | RNN • Mathematics: Linera Algebra | Probability | Stastics • Tools: Git/ Github| Visual Studio | Jupyter Notebook | Pycharm | Streamlit |Collab | MS office • Libraries: Numpy | Pandas | ScikitLearn | Matplotlib | Seaborn | Pytorch | TensorFlow
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaureqs&layout=compact&theme=react" />
 
-- 🌱 I’m currently learning Machine Learning 
+<h3> 📈 &nbsp;Commit Stats</h3>
 
+<a href="https://github.com/zaureqs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaureqs&show_icons=true&theme=react" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=zaureqs&theme=react" alt="GitHub Streak" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mischieff01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-b4b292309//)  
+</a>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mischieff01)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/zaureqs">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=zaureqs&theme=react-dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mischieff01)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mischieff01&show_icons=true&count_private=true)  
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/mischieff01/contributions?format=svg&private=true)  
+<p align="center">
+  <a href="https://twitter.com/Zaureqs01"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zaureqs-blue?style=flat-square&logo=twitter"></a>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mischieff01)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mischieff01)  
-
+  <a href="mailto:mkfenin2k@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mkfenin2k@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zaureqs.zaureqs" alt="TidbitsJS :: Visitor's Count" />
+</p>
