@@ -1,81 +1,106 @@
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="drawing" style="width:100%;ma"/>
-</p>
+<h1 align="left">Hi 👋! I am Ankit Kumar</h1>
 
-<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Manish Fenin.</h2>
+###
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif"  />
+</div>
 
-- 🤔 &nbsp; Curious and collaborative developer seeking internship
-- 🌱 &nbsp; Excited to work as a full-stack developer, learn diverse areas, and make a real impact.
+###
 
-  <br/>
+<h2 align="left">Machine Learning | Artificial Intelligence | Data Science</h2>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+###
 
-- Languages &nbsp;
-  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-  ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-  
-- Frameworks & Libraries &nbsp;
-  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-  ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-  ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-  ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
-  ![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=000000&logo=shadcn%2Fui&logoColor=FFFFFF&label=)
-  ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
-  ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-  
+<h4 align="left">As a dedicated  student of  Computer Science Engineering, I have strong understanding of machine learning, data science, and AI technologies. Throughout my academic journey, I have  deep knowledge of these domains, gaining hands-on experience through coursework, projects, and self-directed study.<br><br>My passion for technology and innovation drives my ambition to pursue a career as a Machine Learning Engineer , Data Scientist or an AI Engineer. With a solid foundation in programming language such as Python,  as well as expertise in frameworks like TensorFlow, PyTorch, and scikit-learn, I am equipped to tackle complex challenges in the field. Moreover, I am proficient in data analysis, statistical modeling, and algorithm development, enabling me to derive meaningful insights from vast datasets and build robust machine learning models.</h4>
 
-- databases & ORM &nbsp;
-  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-  ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-  ![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
-  ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
-  
-- Tools & Platforms &nbsp;
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-  ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=2F80ED&logo=VSCode&logoColor=FFFFFF&label=)
-  ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
-  ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
-  
-<br/>
+###
 
+<br clear="both">
 
-<h3> 🧑‍💻 &nbsp;Top Languages</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mischieff01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=mischieff01&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="167" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mischieff01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false" height="153" alt="languages graph"  />
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaureqs&layout=compact&theme=react" />
+###
 
-<h3> 📈 &nbsp;Commit Stats</h3>
+<br clear="both">
 
-<a href="https://github.com/zaureqs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaureqs&show_icons=true&theme=react" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=zaureqs&theme=react" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="jupyter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="34" alt="numpy logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34" alt="pandas logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="34" alt="anaconda logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=flask" height="34" alt="flask logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="34" alt="heroku logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="34" alt="kaggle logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="pytorch logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="tensorflow logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=c" height="34" alt="c logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=discord" height="34" alt="discord logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
+</div>
 
-</a>
+###
 
-<br/>
+<br clear="both">
 
-<a href="https://github.com/zaureqs">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=zaureqs&theme=react-dark" />
-</a>
+<img src="https://raw.githubusercontent.com/mischieff01/mischieff01/output/snake.svg" alt="Snake animation" />
 
-<br/>
+###
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<div align="center">
+  <a href="ankitk__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mischieff" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
+  </a>
+  <a href="akkankitkumar01@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-b4b292309/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://twitter.com/Zaureqs01"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zaureqs-blue?style=flat-square&logo=twitter"></a>
-
-  <a href="mailto:mkfenin2k@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mkfenin2k@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zaureqs.zaureqs" alt="TidbitsJS :: Visitor's Count" />
-</p>
+###
